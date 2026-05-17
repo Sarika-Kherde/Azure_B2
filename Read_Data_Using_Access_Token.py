@@ -17,5 +17,4 @@ print(even)
 
 # COMMAND ----------
 
-# MAGIC %sql
-# MAGIC select * from Customer_df where city ='Pune';
+
